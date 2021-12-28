@@ -12,10 +12,11 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Nurutomo/wabot-aq
+git clone https://github.com/Deden33/wkwk
 cd wabot-aq
 npm install
 npm update
+node .
 ```
 
 ## INSTALL ON TERMUX WITH UBUNTU
