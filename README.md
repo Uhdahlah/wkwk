@@ -1,4 +1,4 @@
-# wabot-aq
+# bot-wea
 
 Simple WhatsApp Bot
 
@@ -13,7 +13,7 @@ apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
 git clone https://github.com/Deden33/wkwk
-cd wabot-aq
+cd wkwk
 npm install
 npm update
 node .
